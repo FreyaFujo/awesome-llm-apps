@@ -101,10 +101,9 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 *   [😂 AI Meme Generator Agent (Browser)](starter_ai_agents/ai_meme_generator_agent_browseruse/)
 *   [🎵 AI Music Generator Agent](starter_ai_agents/ai_music_generator_agent/)
 *   [🛫 AI Travel Agent (Local & Cloud)](starter_ai_agents/ai_travel_agent/)
-*   [✨ Gemini Multimodal Agent](starter_ai_agents/gemini_multimodal_agent_demo/)
 *   [🔄 Mixture of Agents](starter_ai_agents/mixture_of_agents/)
 *   [📊 xAI Finance Agent](starter_ai_agents/xai_finance_agent/)
-*   [🔍 OpenAI Research Agent](starter_ai_agents/opeani_research_agent/)
+*   [🔍 OpenAI Research Agent](starter_ai_agents/openai_research_agent/)
 *   [🕸️ Web Scraping AI Agent (Local & Cloud SDK)](starter_ai_agents/web_scrapping_ai_agent/)
 
 ### 🚀 Advanced AI Agents
